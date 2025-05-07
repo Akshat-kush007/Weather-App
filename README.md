@@ -3,6 +3,6 @@ Web Application uses OpenWeather API to fetch and Display Weather of Your Curren
 <br>
 **Tech Stack :** HTML CSS JavaScript
 
-***Check out Live preview :*** https://akshat-kush007.github.io/Weather-App/
+***Check out Live preview :*** https://zingy-quokka-6d7d5f.netlify.app/
 <br><br>
 ![Alt Text](https://github.com/Akshat-kush007/Weather-App/blob/main/assets/video.gif)<br><br>
